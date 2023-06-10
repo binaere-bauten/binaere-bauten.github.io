@@ -3,7 +3,7 @@
 <div id=content>
 
 <h1>
-    Produkte
+    Komm zu uns!
 </h1>
 
 <div class= text>

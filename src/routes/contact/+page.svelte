@@ -3,7 +3,7 @@
 <div id=content>
 
 <h1>
-    Produkte
+    Kontakt
 </h1>
 
 <div class= text>

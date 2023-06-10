@@ -3,7 +3,7 @@
 <div id=content>
 
 <h1>
-    Produkte
+    Baumeister
 </h1>
 
 <div class= text>
