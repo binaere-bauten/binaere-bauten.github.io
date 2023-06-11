@@ -1,4 +1,4 @@
-<script>
+<script >
     import SolutionItem from "./solutionItem.svelte";
 
 </script>
@@ -6,7 +6,8 @@
 
 <div id = content>
 
-    <h1>Binäre Bauten</h1>
+    <h1>Binäre Bauten </h1>
+
     
     <h2>Beratungshaus und Software-Entwicklung im Herzen Berlins. </h2>
 

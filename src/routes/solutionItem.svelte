@@ -45,10 +45,12 @@
         width: 14em;
         height: 8em;
         margin:auto;
+        margin-top:.5em;
         padding:1em;
         transition: 0.2s ease-in-out;
     }
     .display:hover{
+        margin-top: 0;
         font-size: 22px;
     }
 
