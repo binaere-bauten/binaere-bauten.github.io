@@ -8,15 +8,20 @@
 
 <div class= text>
 
-<p>Warum pflegt ein Beratungshaus eine Seite mit dem Titel Produkte? Die Antwort ist ebenso einleuchtend wie simpel:</p>
+    <p>Baumeister - ein etwas altmodischer, aber uneingeschränkt positiv besetzter Begriff. Passt hervorragend zu uns ...</p>
 
-<p>Software-Werkzeuge sind Teilergebnisse unserer Prozesse und Zeugnisse unserer Kreativität. Sie entstehen in Projekten oder im Rahmen unserer individuellen Weiterentwicklung. Ein guter Berater ist man nicht per se oder automatisch mit Erlangen eines Hochschulabschlusses. Soft-Skills müssen ebenso weiterentwickelt werden wie fachliche Fähigkeiten auf unterschiedlichen Technology-Stacks.</p>
+    <h2>Ilja Pavkovic</h2>
+    
+    <p>Ilja Pavkovic, Informatik Diplom der Christian-Albrechts-Universität zu Kiel, 2000. Setzte sich bereits während seines Studiums intensiv mit generativer Softwareentwicklung auseinander und legte im Rahmen seiner prämierten Diplomarbeit einen der Grundsteine von openArchitectureWare - heute praktisch das Standard MDA/MDD Generator Framework.</p>
+    
+    <p>Arbeitete anschließend als Entwickler und Projektleiter in einem reinen Software­entwicklungshaus und bei einem international agierenden Handels- und Dienst­leistungs­unternehmen mit integrierter Enterprise-IT. Stellt seine besondere planerische und organisatorische Befähigung den binaeren bauten als Geschäftsführer und unseren Kunden als Projekt­verantwortlicher zur Verfügung.</p>
 
-<p>In guten Fällen entwickeln diese Werkzeuge Eigendynamik, wenn sie eine besonders effiziente Unterstützung für Prozesse bieten, die auch außerhalb unseres eigenen Unternehmens existieren, wenn sie besondere Beispiele für unsere Leistungsfähigkeit sind oder wenn sie einfach nur herausragen - unter welchem Aspekt auch immer.</p>
-
-<p>Erreichen sie dann noch einen Reifegrad weit oberhalb von Proof of Concept oder Prototyp, nennen wir sie Produkte - als Oberbegriff für eine breite Spanne von Framework bis App.</p>
-
-<p>Als Produkthaus wollen wir uns noch nicht verstehen. Wohl aber als Dienstleister und Lieferanten, der seinen Kunden über reine Beratungsleistung hinaus Effizienzsteigerung durch den Einsatz valider Tools anbieten kann. In diesem Verständnis werden Sie an dieser Stelle zukünftig eine wachsende Menge Produkte finden ...</p>
+    <h2>Jost Becker</h2>
+    
+    <p>Jost Becker, Informatik Diplom der Christian-Albrechts-Universität zu Kiel, 1997. Geschäftsführer der binaeren bauten. Ergab sich dem Paradigma der Objekt-Orientierung erst zum Ende seines Studiums und kann nicht verhindern, gelegentlich noch von zweifach zu dereferenzierenden Funktionszeigern zu träumen.</p>
+    
+    <p>Die Befähigung, ein effizient arbeitendes und dynamisch agierendes Beratungs- respektive Projekthaus zu führen, entwickelte er seit 1989 während der Gründungs- und Startphasen mehrerer verbundener Softwareunternehmen. Zunächst Impulse aufnehmend, später weitergebend und schließlich umfassend verantwortlich für eine autarke Konzerneinheit mit einem Jahresumsatz von bis zu 2 Mio. €.</p>
+    
 
 <div class=text_end></div>
 

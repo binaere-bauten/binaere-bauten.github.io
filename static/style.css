@@ -10,7 +10,7 @@ body{
 
     margin:0;
 
-    padding-bottom: 10vh;
+    padding-bottom: 5vh;
 }
 
 #logo{
@@ -23,22 +23,11 @@ body{
     left:0;
     top:-30vh;
     left: -20vw;
-    width:140vw;
+    width:120vw;
     height: 30vh;
     box-shadow: 0 0 30vh var(--blue);
+    
     z-index: -100;
-}
-
-#face,#bar{
-    /* height: 30vh; */
-    width:30vh;
-}
-
-#face{
-    height: 30vh;
-    background-image: url("icon.svg");
-
-    float:left;
 }
 
 h1{
@@ -50,29 +39,39 @@ h2{
     margin-top:1.5em;
 }
 
-#bar{
-    /* background-image: url("bar.svg"); */
-    width: calc(100% - 30vh);
-    margin-left:30vh;
-    /* float:right; */
-    padding-top: 21.75vh;
+#face,#bar{
+    height: 30vh;
+    width:30vh;
 }
 
-#bar>div{
-    height: 1.0vh;
-    width: 100%;
-    background-color: var(--grey);
+#face{
+    height: 30vh;
+    background-image: url("icon.svg");
+
+    float:left;
 }
+
+
+#bar{
+    background-image: url("bar.svg");
+    width: calc(100% - 30vh);
+    float:right;
+
+    /* padding-top: 21.75vh; */
+    /* margin-left:30vh; */
+}
+
+
 
 #content{
     text-align: left;
-    margin-left:10vh;
+    margin-left:14vh;
     margin-right: 30vh;
 }
 
 .text{
     padding-top: 5vh;
-    padding-left:10vh;
+    padding-left:7vh;
     padding-right: 10vh;
     font-size: 1.2em;
     font-weight: 500;
@@ -82,9 +81,9 @@ h2{
 .text_end{
 
     position:relative;
-    width: 3em;
+    width: 7vh;
     height: .7em;
-    left:-3em;
+    left:-7vh;
 
     background-color: var(--blue);
 }
@@ -113,3 +112,20 @@ a{
     cursor: pointer;
 }
 
+
+#footer{
+    text-align: center;
+    padding-top:4em;
+    color:var(--grey);
+}
+#footer>a{
+    padding-left: 2em;
+}
+
+.grey{
+    color:var(--grey);
+}
+
+.mail:hover{
+    color:var(--blue);
+}

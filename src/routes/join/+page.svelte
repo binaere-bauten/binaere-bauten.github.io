@@ -8,15 +8,27 @@
 
 <div class= text>
 
-<p>Warum pflegt ein Beratungshaus eine Seite mit dem Titel Produkte? Die Antwort ist ebenso einleuchtend wie simpel:</p>
 
-<p>Software-Werkzeuge sind Teilergebnisse unserer Prozesse und Zeugnisse unserer Kreativität. Sie entstehen in Projekten oder im Rahmen unserer individuellen Weiterentwicklung. Ein guter Berater ist man nicht per se oder automatisch mit Erlangen eines Hochschulabschlusses. Soft-Skills müssen ebenso weiterentwickelt werden wie fachliche Fähigkeiten auf unterschiedlichen Technology-Stacks.</p>
+    <h2>Über uns</h2>
 
-<p>In guten Fällen entwickeln diese Werkzeuge Eigendynamik, wenn sie eine besonders effiziente Unterstützung für Prozesse bieten, die auch außerhalb unseres eigenen Unternehmens existieren, wenn sie besondere Beispiele für unsere Leistungsfähigkeit sind oder wenn sie einfach nur herausragen - unter welchem Aspekt auch immer.</p>
+    <p>binaere-bauten ist ein mittelsändiges Unternehmen mit Sitz in Berlin-Mitte, direkt an der Spree. Wir sind ein Team von um die 20 Mitarbeitern, das eng zusammenarbeitet und sich gegenseitig unterstützt. Unser internationales Team setzt sich hauptsächlich aus deutsch- und russischsprachigen Fachleuten sowie aus Indien und China zusammen. Bei uns steht der Mensch im Mittelpunkt, und wir legen großen Wert auf zwischenmenschliche Beziehungen.</p>
 
-<p>Erreichen sie dann noch einen Reifegrad weit oberhalb von Proof of Concept oder Prototyp, nennen wir sie Produkte - als Oberbegriff für eine breite Spanne von Framework bis App.</p>
+    <h2>Unsere Philosophie</h2>
 
-<p>Als Produkthaus wollen wir uns noch nicht verstehen. Wohl aber als Dienstleister und Lieferanten, der seinen Kunden über reine Beratungsleistung hinaus Effizienzsteigerung durch den Einsatz valider Tools anbieten kann. In diesem Verständnis werden Sie an dieser Stelle zukünftig eine wachsende Menge Produkte finden ...</p>
+    <p>Bei binaere-bauten sind wir davon überzeugt, dass ein harmonisches Arbeitsumfeld die Basis für Erfolg und Zufriedenheit ist. Wir schaffen eine Atmosphäre, in der sich unsere Mitarbeiter wohlfühlen und ihr volles Potenzial entfalten können. Teamwork, Offenheit und Vertrauen sind für uns keine leeren Worte, sondern Werte, die wir tagtäglich leben. Wir sind stolz darauf, dass sich bei uns jeder Einzelne geschätzt und respektiert fühlt.</p>
+
+    <h2>Unsere Werte</h2>
+
+    <p>Als zuverlässiger Partner in der IT-Branche setzen wir auf Qualität und Verlässlichkeit. Wir nehmen unsere Verantwortung ernst und sind stets bestrebt, die Erwartungen unserer Kunden zu übertreffen. Durch unsere langjährige Erfahrung und unser fundiertes Fachwissen können wir maßgeschneiderte Lösungen entwickeln und erfolgreich umsetzen. Unsere Kunden vertrauen auf uns und wissen, dass wir sie nicht enttäuschen werden.</p>
+
+    <h2>Karrieremöglichkeiten</h2>
+
+    <p>Bei binaere-bauten schaffen wir Möglichkeiten für talentierte Menschen, die im Bereich der Informatik arbeiten möchten. Wir bieten eine Umgebung, in der Sie Ihre Fähigkeiten entwickeln und Ihre beruflichen Ziele erreichen können. Egal, ob Sie ein erfahrener Profi sind oder gerade erst Ihre Karriere starten, wir unterstützen Sie dabei, Ihr volles Potenzial zu entfalten. Bei uns zählt nicht nur Ihr Fachwissen, sondern auch Ihre Persönlichkeit und Ihr Engagement.</p>
+
+    <p>Wir laden Sie herzlich ein, Teil unserer binaere-bauten-Familie zu werden und gemeinsam Erfolge zu feiern. Treten Sie noch heute mit uns in Kontakt und entdecken Sie, wie Sie bei uns Ihre berufliche Heimat finden können.</p>
+
+    <p>Wir freuen uns darauf, von Ihnen zu hören!</p>
+
 
 <div class=text_end></div>
 
