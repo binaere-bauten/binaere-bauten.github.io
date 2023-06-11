@@ -1,0 +1,25 @@
+import{S as qe,i as Me,s as je,k as t,a as c,q as l,l as n,m as i,h as s,c as h,r as o,n as f,b as Fe,G as e,H as xe}from"../chunks/index.6dba6488.js";function Le(Ue){let b,V,K,r,I,J,O,u,E,T,U,C,q,M,j,F,L,Q,g,B,X,Y,Z,$,ee,d,S,te,ne,re,se,D,ae,le,ie,oe,P,ce,he,de,pe,ue,v,w,be,fe,me,ge,ve,_,k,_e,Ee,Be,Se,De,N,Pe,we,x,ke,Re,y,Ie,Ne,A;return{c(){b=t("div"),V=t("h1"),K=c(),r=t("div"),I=t("h2"),J=l("Impressum"),O=c(),u=t("p"),E=t("span"),T=l("Diensteanbieter im Sinne des TMG"),U=c(),C=t("br"),q=l(`
+
+            binaere bauten gmbh
+            `),M=t("br"),j=l(`
+            Oranienburger Str. 4
+            `),F=t("br"),L=l(`
+            10178 Berlin`),Q=c(),g=t("p"),B=t("span"),X=l("Vertretungsberechtigter"),Y=c(),Z=t("br"),$=l(`
+            Jost Becker, dipl.-inform.`),ee=c(),d=t("p"),S=t("span"),te=l("Kontaktaufnahme und unmittelbare Kommunikation"),ne=c(),re=t("br"),se=l(`
+            + 49 (0)30 · 992 888 890 `),D=t("span"),ae=l("[fon]"),le=c(),ie=t("br"),oe=l(`
+            + 49 (0)30 · 992 888 899 `),P=t("span"),ce=l("[fax]"),he=c(),de=t("br"),pe=l(`
+            kontakt@binaere-bauten.de`),ue=c(),v=t("p"),w=t("span"),be=l("Handelsregister"),fe=c(),me=t("br"),ge=l(`
+            Amtsgericht Charlottenburg · HRB 115854`),ve=c(),_=t("p"),k=t("span"),_e=l("USt-IdNr."),Ee=c(),Be=t("br"),Se=l(`
+            DE262531918`),De=c(),N=t("h2"),Pe=l("Datenschutzrichtlinie"),we=c(),x=t("p"),ke=l("Dipl.-Infom. Jost Becker ist Gesellschafter und Geschäftsführer der binaere bauten gmbh und dieser Webseite www.binaere-bauten.de. Der Datenschutz informiert Sie über unsere Richtlinien bezüglich der Sammlung, Verwendung und Offenlegung von persönlichen Informationen, welche wir von Besuchern dieser Website erhalten:"),Re=c(),y=t("p"),Ie=l("Weder erheben noch speichern wir personenbezogene oder pseudomisierte Daten von den Besuchern unserer Webseite ... PUNKT"),Ne=c(),A=t("div"),this.h()},l(z){b=n(z,"DIV",{id:!0});var R=i(b);V=n(R,"H1",{});var Ce=i(V);Ce.forEach(s),K=h(R),r=n(R,"DIV",{class:!0});var a=i(r);I=n(a,"H2",{});var ye=i(I);J=o(ye,"Impressum"),ye.forEach(s),O=h(a),u=n(a,"P",{});var m=i(u);E=n(m,"SPAN",{class:!0});var Ae=i(E);T=o(Ae,"Diensteanbieter im Sinne des TMG"),Ae.forEach(s),U=h(m),C=n(m,"BR",{}),q=o(m,`
+
+            binaere bauten gmbh
+            `),M=n(m,"BR",{}),j=o(m,`
+            Oranienburger Str. 4
+            `),F=n(m,"BR",{}),L=o(m,`
+            10178 Berlin`),m.forEach(s),Q=h(a),g=n(a,"P",{});var H=i(g);B=n(H,"SPAN",{class:!0});var ze=i(B);X=o(ze,"Vertretungsberechtigter"),ze.forEach(s),Y=h(H),Z=n(H,"BR",{}),$=o(H,`
+            Jost Becker, dipl.-inform.`),H.forEach(s),ee=h(a),d=n(a,"P",{});var p=i(d);S=n(p,"SPAN",{class:!0});var He=i(S);te=o(He,"Kontaktaufnahme und unmittelbare Kommunikation"),He.forEach(s),ne=h(p),re=n(p,"BR",{}),se=o(p,`
+            + 49 (0)30 · 992 888 890 `),D=n(p,"SPAN",{class:!0});var We=i(D);ae=o(We,"[fon]"),We.forEach(s),le=h(p),ie=n(p,"BR",{}),oe=o(p,`
+            + 49 (0)30 · 992 888 899 `),P=n(p,"SPAN",{class:!0});var Ge=i(P);ce=o(Ge,"[fax]"),Ge.forEach(s),he=h(p),de=n(p,"BR",{}),pe=o(p,`
+            kontakt@binaere-bauten.de`),p.forEach(s),ue=h(a),v=n(a,"P",{});var W=i(v);w=n(W,"SPAN",{class:!0});var Ve=i(w);be=o(Ve,"Handelsregister"),Ve.forEach(s),fe=h(W),me=n(W,"BR",{}),ge=o(W,`
+            Amtsgericht Charlottenburg · HRB 115854`),W.forEach(s),ve=h(a),_=n(a,"P",{});var G=i(_);k=n(G,"SPAN",{class:!0});var Ke=i(k);_e=o(Ke,"USt-IdNr."),Ke.forEach(s),Ee=h(G),Be=n(G,"BR",{}),Se=o(G,`
+            DE262531918`),G.forEach(s),De=h(a),N=n(a,"H2",{});var Je=i(N);Pe=o(Je,"Datenschutzrichtlinie"),Je.forEach(s),we=h(a),x=n(a,"P",{});var Oe=i(x);ke=o(Oe,"Dipl.-Infom. Jost Becker ist Gesellschafter und Geschäftsführer der binaere bauten gmbh und dieser Webseite www.binaere-bauten.de. Der Datenschutz informiert Sie über unsere Richtlinien bezüglich der Sammlung, Verwendung und Offenlegung von persönlichen Informationen, welche wir von Besuchern dieser Website erhalten:"),Oe.forEach(s),Re=h(a),y=n(a,"P",{});var Te=i(y);Ie=o(Te,"Weder erheben noch speichern wir personenbezogene oder pseudomisierte Daten von den Besuchern unserer Webseite ... PUNKT"),Te.forEach(s),Ne=h(a),A=n(a,"DIV",{class:!0}),i(A).forEach(s),a.forEach(s),R.forEach(s),this.h()},h(){f(E,"class","grey"),f(B,"class","grey"),f(S,"class","grey"),f(D,"class","grey"),f(P,"class","grey"),f(w,"class","grey"),f(k,"class","grey"),f(A,"class","text_end"),f(r,"class","text"),f(b,"id","content")},m(z,R){Fe(z,b,R),e(b,V),e(b,K),e(b,r),e(r,I),e(I,J),e(r,O),e(r,u),e(u,E),e(E,T),e(u,U),e(u,C),e(u,q),e(u,M),e(u,j),e(u,F),e(u,L),e(r,Q),e(r,g),e(g,B),e(B,X),e(g,Y),e(g,Z),e(g,$),e(r,ee),e(r,d),e(d,S),e(S,te),e(d,ne),e(d,re),e(d,se),e(d,D),e(D,ae),e(d,le),e(d,ie),e(d,oe),e(d,P),e(P,ce),e(d,he),e(d,de),e(d,pe),e(r,ue),e(r,v),e(v,w),e(w,be),e(v,fe),e(v,me),e(v,ge),e(r,ve),e(r,_),e(_,k),e(k,_e),e(_,Ee),e(_,Be),e(_,Se),e(r,De),e(r,N),e(N,Pe),e(r,we),e(r,x),e(x,ke),e(r,Re),e(r,y),e(y,Ie),e(r,Ne),e(r,A)},p:xe,i:xe,o:xe,d(z){z&&s(b)}}}class Xe extends qe{constructor(b){super(),Me(this,b,null,Le,je,{})}}export{Xe as component};

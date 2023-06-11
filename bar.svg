@@ -6,12 +6,16 @@
 <clipPath id="ArtboardFrame">
 <rect height="1024" width="1024" x="0" y="0"/>
 </clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1" visibility="hidden">
-<path d="M52.4414 640.653L470.436 502.813L949.974 647.287L950.81 674.089L845.122 645.91L846.394 738.167L1024.07 740.542L1024.25 775.462L0 775.462L0.217863 754.685L470.436 755.93L470.436 530.498L52.8849 662.978L52.4414 640.653Z" fill="#9b9b9b" fill-rule="nonzero" opacity="1" stroke="none"/>
-<path d="M477.01 392.473L957.712 588.713L957.314 619.529L478.155 466.175L477.01 402.889L36.0762 590.866L36.0652 582.85L477.01 392.473Z" fill="#9b9b9b" fill-rule="nonzero" opacity="1" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="15"/>
-<path d="M453.478 705.573" fill="#9b9b9b" fill-rule="nonzero" opacity="1" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="15"/>
-</g>
+
+
 <g id="Layer-2" vectornator:layerName="Layer 2">
-<path d="M0 738.164L1024 740.539L1024 775.46L0 775.46L0 738.164Z" fill="#9b9b9b" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="
+M0 740
+L1024 740
+L1024 775
+L0 775
+L0 740
+Z
+" fill="#9b9b9b" fill-rule="nonzero" opacity="1" stroke="none"/>
 </g>
 </svg>
